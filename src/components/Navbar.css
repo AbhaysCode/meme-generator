@@ -1,0 +1,20 @@
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color:purple;
+    color:white;
+    padding: 20px;
+}
+.brand{
+    display:flex;
+}
+.laughemo{
+    margin:auto 0;
+}
+.brand h3{
+    margin:auto 10px;
+}
+.navbar p{
+    margin:auto;
+}
